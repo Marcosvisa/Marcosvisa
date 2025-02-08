@@ -1,6 +1,11 @@
 ## marcosvisa
 
-### 🤖 Linguagens e Tecnologias
+😎😎😎
+
+
+
+
+### ♨ Linguagens e Tecnologias
 
 <img 
     align="left" 
