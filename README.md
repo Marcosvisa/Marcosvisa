@@ -1,6 +1,5 @@
 # Marcos Vinicius 😁 <h1>
 ### ♨ Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="Java"
